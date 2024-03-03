@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1009.JPG",
+    "size": 3287423,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    305,
+                    2179,
+                    2202,
+                    268
+                ],
+                "all_points_y": [
+                    2744,
+                    2744,
+                    1588,
+                    1622
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

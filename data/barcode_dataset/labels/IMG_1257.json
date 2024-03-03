@@ -1,0 +1,29 @@
+{
+    "filename": "IMG_1257.jpg",
+    "size": 2119151,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    318,
+                    1910,
+                    1813,
+                    430,
+                    394,
+                    332
+                ],
+                "all_points_y": [
+                    830,
+                    807,
+                    1635,
+                    1715,
+                    1364,
+                    987
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

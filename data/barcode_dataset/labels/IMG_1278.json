@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1278.JPG",
+    "size": 1882956,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    755,
+                    2306,
+                    2295,
+                    755
+                ],
+                "all_points_y": [
+                    1300,
+                    1323,
+                    1741,
+                    1718
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

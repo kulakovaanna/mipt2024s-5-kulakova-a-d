@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1276.JPG",
+    "size": 2158579,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    769,
+                    2510,
+                    2529,
+                    777
+                ],
+                "all_points_y": [
+                    1368,
+                    1351,
+                    2727,
+                    2741
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

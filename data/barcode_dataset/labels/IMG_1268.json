@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1268.JPG",
+    "size": 3312019,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    735,
+                    1984,
+                    2326,
+                    1094
+                ],
+                "all_points_y": [
+                    1826,
+                    1292,
+                    2043,
+                    2611
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

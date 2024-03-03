@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1263.jpg",
+    "size": 1704330,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    494,
+                    1610,
+                    1620,
+                    502
+                ],
+                "all_points_y": [
+                    1211,
+                    1190,
+                    1645,
+                    1668
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

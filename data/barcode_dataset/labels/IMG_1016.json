@@ -1,0 +1,33 @@
+{
+    "filename": "IMG_1016.jpg",
+    "size": 1321634,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    228,
+                    1555,
+                    1573,
+                    1572,
+                    1560,
+                    1559,
+                    268,
+                    233
+                ],
+                "all_points_y": [
+                    687,
+                    684,
+                    894,
+                    1106,
+                    1321,
+                    1426,
+                    1458,
+                    888
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

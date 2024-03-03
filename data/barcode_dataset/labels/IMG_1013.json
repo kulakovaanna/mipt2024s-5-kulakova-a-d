@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1013.jpg",
+    "size": 1290020,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    295,
+                    1409,
+                    1422,
+                    296
+                ],
+                "all_points_y": [
+                    802,
+                    788,
+                    1419,
+                    1438
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

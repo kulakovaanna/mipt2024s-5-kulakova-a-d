@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1004.JPG",
+    "size": 3046697,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    2787,
+                    1853,
+                    1867,
+                    2801
+                ],
+                "all_points_y": [
+                    2203,
+                    2200,
+                    937,
+                    909
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}

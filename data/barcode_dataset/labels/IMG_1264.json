@@ -1,0 +1,25 @@
+{
+    "filename": "IMG_1264.jpg",
+    "size": 2016420,
+    "regions": [
+        {
+            "shape_attributes": {
+                "name": "polygon",
+                "all_points_x": [
+                    359,
+                    1529,
+                    1521,
+                    345
+                ],
+                "all_points_y": [
+                    1244,
+                    1264,
+                    1688,
+                    1678
+                ]
+            },
+            "region_attributes": {}
+        }
+    ],
+    "file_attributes": {}
+}
